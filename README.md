@@ -17,6 +17,8 @@ Using historical (2008-2022) betting odds from football-data.co.uk, CategoricalM
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2: [+2%,&nbsp;&nbsp; +∞]   
 - y (Regression): Direct decimal profit margins
 
+[Click Here for Colab Project](https://drive.google.com/drive/folders/1ZnR5a_7enPvifi1PJFIsz0oyN4gU1BYs?usp=sharing)
+
 ## *ML Projects*
 
 The MLProjects repo contains several toy-datasets and a demonstration of profficiency with Python, sklearn, and a breadth of ML models.
