@@ -6,6 +6,8 @@ I spent several hours or so writing a short program to search differing upcoming
 
 ## *Arbitrage + Deep Learning*
 
+[Click here for the summative paper](https://github.com/ale-chen/Arbitrage/blob/aea82747f7908e69c1b2e49e96aa2e2e63d734e3/Report.pdf)
+
 Using historical (2008-2022) betting odds from football-data.co.uk, CategoricalModel and RegressionModel predict whether a given game is likely to present good opportunities through arbitrage through deep learning models. RegressionModel was built in response to CategoricalModel's lukewarm performance, and lack of good loss metrics.
 - X (Both models): Each row of X contains date, teams playing, and betting odds/game statistics for each teams' previous five games (10 previous games total)
 - y (Categorical): Categorized Arbitrage yields for each game as follows:
