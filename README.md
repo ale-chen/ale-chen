@@ -25,6 +25,11 @@ Using historical (2008-2022) betting odds from football-data.co.uk, CategoricalM
 
 The MLProjects repo contains several toy-datasets and a demonstration of profficiency with Python, sklearn, and a breadth of ML models.
 
+## *Oil Painting*
+Some art that I've done screenshotted off my Instagram
+| ------------- | ------------- |
+|![image](https://github.com/ale-chen/ale-chen/assets/118056107/a2d045ee-c253-4c94-b9db-5e3f168da2e5)|![image](https://github.com/ale-chen/ale-chen/assets/118056107/bee976fa-79e7-44c2-9358-53c5a6e1b7e1)|![image](https://github.com/ale-chen/ale-chen/assets/118056107/6fbfc955-7873-4df1-9495-dd755c65d00e)|
+
 <!---
 ale-chen/ale-chen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
