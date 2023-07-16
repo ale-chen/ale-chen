@@ -25,6 +25,11 @@ Using historical (2008-2022) betting odds from football-data.co.uk, CategoricalM
 
 The MLProjects repo contains several toy-datasets and a demonstration of profficiency with Python, sklearn, and a breadth of ML models.
 
+## *Robot*
+
+I cadded and milled/laser-cut parts for a robot for the 2019-2020 FTC season.
+![IMG_0523](https://github.com/ale-chen/ale-chen/assets/118056107/93c8d92f-3363-4b06-9e26-3975c880f613)
+
 ## *Art*
 
 | Pastel | Pastel | Graphite and Charcoal |
