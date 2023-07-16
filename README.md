@@ -32,7 +32,7 @@ I designed (Fusion) and milled/laser-cut parts for a state-championship robot du
 
 ## *Art*
 
-| Pastel | Pastel | Graphite and Charcoal |
+| Pastel | Pastel | Pencil and Charcoal |
 | ------------- | ------------- | ------------- |
 | ![image](https://github.com/ale-chen/ale-chen/assets/118056107/a2d045ee-c253-4c94-b9db-5e3f168da2e5) | ![image](https://github.com/ale-chen/ale-chen/assets/118056107/bee976fa-79e7-44c2-9358-53c5a6e1b7e1) | ![image](https://github.com/ale-chen/ale-chen/assets/118056107/6fbfc955-7873-4df1-9495-dd755c65d00e) |
 
