@@ -1,12 +1,13 @@
 ## *Dynamics*
 ![til](https://github.com/ale-chen/molecular_dynamics/blob/e50a2b964b48939484512e8f3d8b8737b15ef418/k_inter_10_k_center_1.gif)
+
 Some chaotic dynamics, and a measurement of resulting state estimation error.
 
 ## *Arbitrage*
 
-I spent several hours or so writing a short program to search differing upcoming American Football betting odds to find guaranteed Arbitrage profit opportunities between different bookmakers. As of the time of writing this (7:00 AM, Nov. 12), betting on the Sunday Bills v. Vikings game can yield a guaranteed .63% profit if you bet using both the BetMGM and BetFAIR platforms.
+I spent several hours or so writing a short program to search differing upcoming American Football betting odds to find guaranteed Arbitrage profit opportunities between different bookmakers. As of the time of writing this (7:00 AM, Nov. 12 2022), betting on the Sunday Bills v. Vikings game can yield a guaranteed .63% profit if you bet using both the BetMGM and BetFAIR platforms.
 
-*AS OF 8 AM ON NOV 13, THERE'S A 9.72% GUARANTEED RETURN ON THE SAME GAME USING MYBOOKIEAG AND FANDUEL
+*AS OF 8 AM ON NOV 13 2022, THERE'S A 9.72% GUARANTEED RETURN ON THE SAME GAME USING MYBOOKIEAG AND FANDUEL
 
 ## *Arbitrage + Deep Learning*
 
