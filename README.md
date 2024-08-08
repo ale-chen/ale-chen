@@ -1,5 +1,5 @@
 ## *Dynamics*
-![til](https://github.com/ale-chen/molecular_dynamics/blob/e50a2b964b48939484512e8f3d8b8737b15ef418/k_inter_10_k_center_1.gif)
+![til](https://github.com/ale-chen/molecular_dynamics/blob/e50a2b964b48939484512e8f3d8b8737b15ef418/k_inter_10_k_center_1.gif | width = 100)
 
 Some chaotic dynamics, and a measurement of resulting state estimation error.
 
