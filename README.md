@@ -3,6 +3,8 @@
 
 Some chaotic dynamics, and a measurement of resulting state estimation error.
 
+![image](https://github.com/ale-chen/molecular_dynamics/blob/4dfdf53ec0720f874ddc0a4ec0e9d863b8d6a3cb/problem2_markovian_analysis.png)
+
 ## *Arbitrage*
 
 I spent several hours or so writing a short program to search differing upcoming American Football betting odds to find guaranteed Arbitrage profit opportunities between different bookmakers. As of the time of writing this (7:00 AM, Nov. 12 2022), betting on the Sunday Bills v. Vikings game can yield a guaranteed .63% profit if you bet using both the BetMGM and BetFAIR platforms.
