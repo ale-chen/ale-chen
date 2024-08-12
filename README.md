@@ -1,14 +1,9 @@
 ## *Dynamics*
-<div style="display: flex; height: 100%;">
-    <img src="https://github.com/user-attachments/assets/42557d67-37b9-429f-acf3-fa350b3e8427" alt="Dynamics" style="width: 50%; height: auto; display: block;">
-    <img src="https://github.com/ale-chen/molecular_dynamics/blob/4dfdf53ec0720f874ddc0a4ec0e9d863b8d6a3cb/problem2_markovian_analysis.png" alt="Markovian Analysis" style="height: 50%; height: auto; display: block;">
-</div>
+<img src="https://github.com/user-attachments/assets/42557d67-37b9-429f-acf3-fa350b3e8427" width="50%"><img src="https://github.com/ale-chen/molecular_dynamics/blob/4dfdf53ec0720f874ddc0a4ec0e9d863b8d6a3cb/problem2_markovian_analysis.png" width="50%">
 
 Some chaotic many-body dynamics from scratch in MATLAB, and a measurement of resulting Markovian state estimation error.
 
-<div style="display: flex; width: 100%;">
-    <img src="https://github.com/user-attachments/assets/178449da-0697-4214-9ba4-5e59f275965f" alt="System3_tracks" style="width: 50%; height: auto; display: block;"><img src="https://github.com/user-attachments/assets/cddb29f4-bac1-4f25-a33e-a7d8337e0f3a" alt="System3" style="width: 50%; height: auto; display: block;">
-</div>
+<img src="https://github.com/user-attachments/assets/178449da-0697-4214-9ba4-5e59f275965f" width="50%"><img src="https://github.com/user-attachments/assets/cddb29f4-bac1-4f25-a33e-a7d8337e0f3a" width="50%">
 
 Similar Periodic Box in the Wolfram Language (no central potential).
 ## *Arbitrage*
