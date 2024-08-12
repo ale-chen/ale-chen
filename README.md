@@ -1,6 +1,5 @@
 ## *Dynamics*
 ![Dynamics](https://github.com/user-attachments/assets/42557d67-37b9-429f-acf3-fa350b3e8427)
-
 <img src="https://github.com/ale-chen/molecular_dynamics/blob/4dfdf53ec0720f874ddc0a4ec0e9d863b8d6a3cb/problem2_markovian_analysis.png" width=25.49% height=25.49%>
 
 Some chaotic dynamics from scratch in MATLAB, and a measurement of resulting Markovian state estimation error.
