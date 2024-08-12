@@ -1,8 +1,11 @@
 ## *Dynamics*
 ![Dynamics](https://github.com/user-attachments/assets/42557d67-37b9-429f-acf3-fa350b3e8427)<img src="https://github.com/ale-chen/molecular_dynamics/blob/4dfdf53ec0720f874ddc0a4ec0e9d863b8d6a3cb/problem2_markovian_analysis.png" width=25.49% height=25.49%>
 
-Some chaotic dynamics from scratch in MATLAB, and a measurement of resulting Markovian state estimation error.
+Some chaotic many-body dynamics from scratch in MATLAB, and a measurement of resulting Markovian state estimation error.
 
+![Tracker](https://github.com/user-attachments/assets/8e42f848-2773-42a6-8ef0-00ce440d877f)
+
+Similar Periodic Box in the Wolfram Language (no central potential).
 ## *Arbitrage*
 
 I spent several hours or so writing a short program to search differing upcoming American Football betting odds to find guaranteed Arbitrage profit opportunities between different bookmakers. As of the time of writing this (7:00 AM, Nov. 12 2022), betting on the Sunday Bills v. Vikings game can yield a guaranteed .63% profit if you bet using both the BetMGM and BetFAIR platforms.
@@ -28,7 +31,7 @@ Using historical (2008-2022) betting odds from football-data.co.uk, CategoricalM
 
 ## *ML Projects*
 
-The MLProjects repo contains several toy-datasets and a demonstration of profficiency with Python, sklearn, and a breadth of ML models.
+The MLProjects repo contains several toy datasets and a demonstration of profficiency with Python, sklearn, and a breadth of ML models.
 
 ## *Robot*
 
