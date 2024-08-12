@@ -3,7 +3,7 @@
 
 Some chaotic many-body dynamics from scratch in MATLAB, and a measurement of resulting Markovian state estimation error.
 
-![Tracker](https://github.com/user-attachments/assets/8e42f848-2773-42a6-8ef0-00ce440d877f)
+![System3_tracks](https://github.com/user-attachments/assets/178449da-0697-4214-9ba4-5e59f275965f)![System3](https://github.com/user-attachments/assets/cddb29f4-bac1-4f25-a33e-a7d8337e0f3a)
 
 Similar Periodic Box in the Wolfram Language (no central potential).
 ## *Arbitrage*
