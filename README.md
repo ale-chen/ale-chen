@@ -6,6 +6,10 @@ Some chaotic classical many-body harmonics from scratch in MATLAB, and a measure
 <img src="https://github.com/user-attachments/assets/178449da-0697-4214-9ba4-5e59f275965f" width="25%"><img src="https://github.com/user-attachments/assets/cddb29f4-bac1-4f25-a33e-a7d8337e0f3a" width="25%">
 
 Similar Periodic Box in the Wolfram Language (no central potential).
+
+<img src="https://github.com/user-attachments/assets/623f4124-0fa0-4608-8167-2ff1ae1ed6cb" width="25%">
+
+Composite bodies in a harmonic potential.
 ## *Arbitrage*
 
 I spent several hours or so writing a short program to search differing upcoming American Football betting odds to find guaranteed Arbitrage profit opportunities between different bookmakers. As of the time of writing this (7:00 AM, Nov. 12 2022), betting on the Sunday Bills v. Vikings game can yield a guaranteed .63% profit if you bet using both the BetMGM and BetFAIR platforms.
