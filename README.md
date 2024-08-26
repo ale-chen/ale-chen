@@ -10,6 +10,20 @@ Similar Periodic Box in the Wolfram Language (no central potential).
 <img src="https://github.com/user-attachments/assets/97b95cf8-32b8-4da7-b47e-54a82cf0d436" width="25%">
 
 Composite, rigid bodies in a central harmonic potential.
+
+## *Robot*
+
+I designed (Fusion) and milled/laser-cut parts for a state-championship robot during the 2019-2020 FTC season.
+![IMG_0523](https://github.com/ale-chen/ale-chen/assets/118056107/93c8d92f-3363-4b06-9e26-3975c880f613)
+
+## *Art*
+
+| Pastel | Pastel | Pencil and Charcoal |
+| ------------- | ------------- | ------------- |
+| ![image](https://github.com/ale-chen/ale-chen/assets/118056107/a2d045ee-c253-4c94-b9db-5e3f168da2e5) | ![image](https://github.com/ale-chen/ale-chen/assets/118056107/bee976fa-79e7-44c2-9358-53c5a6e1b7e1) | ![image](https://github.com/ale-chen/ale-chen/assets/118056107/6fbfc955-7873-4df1-9495-dd755c65d00e) |
+
+
+
 ## *Arbitrage*
 
 I spent several hours or so writing a short program to search differing upcoming American Football betting odds to find guaranteed Arbitrage profit opportunities between different bookmakers. As of the time of writing this (7:00 AM, Nov. 12 2022), betting on the Sunday Bills v. Vikings game can yield a guaranteed .63% profit if you bet using both the BetMGM and BetFAIR platforms.
@@ -36,18 +50,6 @@ Using historical (2008-2022) betting odds from football-data.co.uk, CategoricalM
 ## *ML Projects*
 
 The MLProjects repo contains several toy datasets and a demonstration of profficiency with Python, sklearn, and a breadth of ML models.
-
-## *Robot*
-
-I designed (Fusion) and milled/laser-cut parts for a state-championship robot during the 2019-2020 FTC season.
-![IMG_0523](https://github.com/ale-chen/ale-chen/assets/118056107/93c8d92f-3363-4b06-9e26-3975c880f613)
-
-## *Art*
-
-| Pastel | Pastel | Pencil and Charcoal |
-| ------------- | ------------- | ------------- |
-| ![image](https://github.com/ale-chen/ale-chen/assets/118056107/a2d045ee-c253-4c94-b9db-5e3f168da2e5) | ![image](https://github.com/ale-chen/ale-chen/assets/118056107/bee976fa-79e7-44c2-9358-53c5a6e1b7e1) | ![image](https://github.com/ale-chen/ale-chen/assets/118056107/6fbfc955-7873-4df1-9495-dd755c65d00e) |
-
 <!---
 ale-chen/ale-chen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
