@@ -6,7 +6,7 @@ A chaotic classical many-body system in 3D from scratch in MATLAB, and a measure
 
 <img src="https://github.com/user-attachments/assets/4db433c6-2924-4f82-a8b1-292dbdb190ed" width="50%">
 
-The famous Lorenz System.
+The famous Lorenz System in java, javax.swing.
 
 <img src="https://github.com/user-attachments/assets/178449da-0697-4214-9ba4-5e59f275965f" width="25%"><img src="https://github.com/user-attachments/assets/cddb29f4-bac1-4f25-a33e-a7d8337e0f3a" width="25%">
 
