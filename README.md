@@ -4,7 +4,7 @@
 
 A chaotic classical many-body system in 3D from scratch in MATLAB, and a measurement of resulting Markovian state estimation error.
 
-<img src="https://github.com/user-attachments/assets/4db433c6-2924-4f82-a8b1-292dbdb190ed" width="50%">
+<img src="https://github.com/user-attachments/assets/4db433c6-2924-4f82-a8b1-292dbdb190ed" width="30%">
 
 The famous Lorenz System in java, javax.swing.
 
